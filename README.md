@@ -36,6 +36,8 @@ This will start the development server at `http://localhost:5173/`
 
 Live Demo:
 
+https://gowrepreya.github.io/mentorship-dashboard/
+
 Screenshots:
 
 Known Issues or Limitations:
