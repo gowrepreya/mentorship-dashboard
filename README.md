@@ -1,12 +1,58 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Mentorship-Dashboard 
+Frontend Intern Track**
 
-Currently, two official plugins are available:
+Project Overview:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The Mentorship Dashboard is a frontend application built with React and Vite that allows mentees in a developer training program to view their task progress, feedback from mentors, and upcoming sessions. The UI is dynamic and uses mock data with full state management, allowing users to interact with tasks and visualize completion progress.
 
-## Expanding the ESLint configuration
+Tech Stack:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React.js
+- Vite
+- JavaScript (ES6)
+- CSS (No frameworks)
+- GitHub Pages (for deployment)
+
+Installation Instructions:
+
+1. Clone the Repository
+
+bash
+git clone https://github.com/gowrepreya/mentorship-dashboard.git
+cd mentorship-dashboard
+
+2. Install Dependencies
+
+bash
+npm install
+
+3. Run the App Locally
+
+bash
+npm run dev
+
+This will start the development server at `http://localhost:5173/`
+
+Live Demo:
+
+Screenshots:
+
+Known Issues or Limitations:
+
+This is a frontend-only app with no backend/API integration.
+Task and feedback data is static (stored in local component state).
+
+
+.env.sample:
+
+This project does not currently use any environment variables. 
+
+
+Contact:
+Gowre Preya G P
+6379949741
+https://www.likedin.com/in/gowre-preya-g-p
+
+
+
