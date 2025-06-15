@@ -40,6 +40,10 @@ https://gowrepreya.github.io/mentorship-dashboard/
 
 Screenshots:
 
+![image](https://github.com/user-attachments/assets/5f9d485a-cc43-49ab-b24d-b6b0f65ad1ee)
+![image](https://github.com/user-attachments/assets/7534f9e0-8b5a-4331-8a09-7e0f3428be15)
+
+
 Known Issues or Limitations:
 
 This is a frontend-only app with no backend/API integration.
